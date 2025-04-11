@@ -1,0 +1,100 @@
+[
+    {
+      "name": "John Doe",
+      "subject": "Mathematics",
+      "class": "10-A",
+      "email": "john.doe@example.com",
+      "address": "New York, USA",
+      "gender": "Male"
+    },
+    {
+      "name": "Aisha Khan",
+      "subject": "English",
+      "class": "9-B",
+      "email": "aisha.khan@example.com",
+      "address": "Lahore, Pakistan",
+      "gender": "Female"
+    },
+    {
+      "name": "Ali Karimov",
+      "subject": "Physics",
+      "class": "11-C",
+      "email": "ali.karimov@example.com",
+      "address": "Tashkent, Uzbekistan",
+      "gender": "Male"
+    },
+    {
+      "name": "Sara Lee",
+      "subject": "Biology",
+      "class": "8-A",
+      "email": "sara.lee@example.com",
+      "address": "London, UK",
+      "gender": "Female"
+    },
+    {
+      "name": "Michael Smith",
+      "subject": "Chemistry",
+      "class": "10-B",
+      "email": "m.smith@example.com",
+      "address": "Chicago, USA",
+      "gender": "Male"
+    },
+    {
+      "name": "Laylo Rasulova",
+      "subject": "Geography",
+      "class": "7-C",
+      "email": "laylo.rasulova@example.com",
+      "address": "Andijon, Uzbekistan",
+      "gender": "Female"
+    },
+    {
+      "name": "Javlonbek Rakhimov",
+      "subject": "History",
+      "class": "9-A",
+      "email": "javlon.r@example.com",
+      "address": "Namangan, Uzbekistan",
+      "gender": "Male"
+    },
+    {
+      "name": "Chen Wu",
+      "subject": "Art",
+      "class": "6-B",
+      "email": "chen.wu@example.com",
+      "address": "Beijing, China",
+      "gender": "Male"
+    },
+    {
+      "name": "Fatima Zahra",
+      "subject": "Islamic Studies",
+      "class": "8-C",
+      "email": "fatima.zahra@example.com",
+      "address": "Cairo, Egypt",
+      "gender": "Female"
+    },
+    {
+      "name": "Carlos Mendez",
+      "subject": "Spanish",
+      "class": "10-C",
+      "email": "carlos.mendez@example.com",
+      "address": "Madrid, Spain",
+      "gender": "Male"
+    },
+    {
+      "name": "Yuki Nakamura",
+      "subject": "Computer Science",
+      "class": "11-B",
+      "email": "yuki.nakamura@example.com",
+      "address": "Tokyo, Japan",
+      "gender": "Female"
+    },
+    {
+      "name": "Olga Petrova",
+      "subject": "Russian Literature",
+      "class": "12-A",
+      "email": "olga.petrova@example.com",
+      "address": "Moscow, Russia",
+      "gender": "Female"
+    }
+  ]
+  
+  
